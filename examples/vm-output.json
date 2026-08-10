@@ -1,0 +1,7 @@
+{
+"vmName": "LabVM01",
+"resourceGroup": "LabVM01-RG",
+"location": "eastus",
+"publicIp": "20.55.123.10",
+"status": "Succeeded"
+}
