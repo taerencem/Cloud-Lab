@@ -1,0 +1,7 @@
+{
+  "AzureAdJoined": "YES",
+  "DomainJoined": "YES",
+  "DeviceId": "12345678-abcd-1234-abcd-1234567890ab",
+  "TenantId": "abcdef12-3456-7890-abcd-1234567890ab",
+  "TenantName": "YourDomain"
+}
