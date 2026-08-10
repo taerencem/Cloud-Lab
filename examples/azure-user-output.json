@@ -1,0 +1,11 @@
+{
+"createdUsers": [
+{
+"displayName": "John Doe",
+"upn": "jdoe@yourdomain.com",
+"license": "ENTERPRISEPACK",
+"role": "User Administrator",
+"mfa": "Enabled"
+}
+]
+}
