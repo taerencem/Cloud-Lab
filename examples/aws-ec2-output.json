@@ -1,0 +1,7 @@
+{
+"instanceId": "i-0abc123def4567890",
+"region": "us-west-2",
+"status": "running",
+"keyPair": "LabEC2-Key",
+"securityGroup": "LabEC2-SG"
+}
