@@ -1,0 +1,4 @@
+DisplayName,UserPrincipalName,MailNickname,Password,SkuId,Role,MFA
+John Doe,jdoe@yourdomain.com,jdoe,Password123!,ENTERPRISEPACK,User Administrator,Enabled
+Sarah Smith,ssmith@yourdomain.com,ssmith,Password123!,BUSINESS_PREMIUM,,Enabled
+Mike Brown,mbrown@yourdomain.com,mbrown,Password123!,BUSINESS_PREMIUM,,Disabled
